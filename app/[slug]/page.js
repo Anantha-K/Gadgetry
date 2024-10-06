@@ -7,7 +7,7 @@ const page = () => {
         <div className='bg-white w-[90%] h-screen'>
             <h1>Heading</h1>
             
-
+          <p>I love You</p>
         </div>
 
     </div>
