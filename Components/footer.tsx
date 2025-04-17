@@ -17,7 +17,6 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Categories Section */}
           <div>
             <h4 className="text-lg font-semibold mb-4 text-gray-200">Explore</h4>
             <ul className="space-y-3">
