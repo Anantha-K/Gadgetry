@@ -38,7 +38,6 @@ export default function BlogPost() {
       
       <h2 class="text-2xl font-bold mt-8 mb-4">Our Top Picks for 2025</h2>
       
-      <p class="leading-relaxed mb-6">After testing dozens of mechanical keyboards, we've narrowed down the best options based on build quality, features, and value.</p>
     `,
     tags: ["Keyboards", "Mechanical", "Tech Reviews", "Gaming"],
     relatedPosts: [
