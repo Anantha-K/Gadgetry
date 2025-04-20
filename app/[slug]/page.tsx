@@ -39,7 +39,6 @@ export default function BlogPost() {
       <h2 class="text-2xl font-bold mt-8 mb-4">Our Top Picks for 2025</h2>
       
     `,
-    tags: ["Keyboards", "Mechanical", "Tech Reviews", "Gaming"],
     relatedPosts: [
       {
         title: "How to Customize Your Mechanical Keyboard",
